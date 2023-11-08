@@ -123,30 +123,44 @@ KPI_2 = ((Media nueva - Media actual) / Media actual) * 100
 
 **Contexto General**
 
+<p align='center'>
 <img src ="src\media_baja_año.png">
 
 
 En el periodo seleccionado para el análisis, se observa un comportamiento con tendencia al aumento proporcionalmente considerable en cuanto a la media de bajada a nivel nacional en el periodo desde el 2014 al 2022.La media de bajada se refiere a la velocidad de descarga de datos desde internet a un dispositivo. En otras palabras, es la velocidad a la que los datos fluyen desde el servidor de internet al dispositivo del usuario. La velocidad de descarga se mide en megabits por segundo (Mbps). La tendencia al aumento en la media de bajada indica que la velocidad de descarga de datos ha aumentado en el país en el periodo seleccionado. El aumento en la velocidad de descarga de datos puede deberse a una variedad de factores, como mejoras en la infraestructura de internet, actualizaciones en los dispositivos de los usuarios, etc. Por otra parte, la gráfica de ‘Mbps (Media de bajada) por año’ muestra que el último periodo, es decir, desde el 2021 al 2022, tuvo el mayor incremento en la velocidad del internet. Es importante destacar que la gráfica representa de manera absoluta la tendencia general en todo el país, lo que sugiere que el aumento en la velocidad de descarga de datos se ha producido en todas las provincias del país. Además, el cálculo de Tasa de crecimiento Accesos por cada 100 hogares (KPI_1) es de 1,77 en promedio para el periodo seleccionado, es decir, en cada trimestre del periodo hubo un incremento de 1,77 % en la cantidad de accesos a internet por cada 100 hogares, así como también, para la Tasa de crecimiento Mbps (Media de bajada) (KPI_2) se registró un valor de 7,10% de incremento promedio trimestral a nivel nacional.
 
 
+<p align='center'>
 <img src ="src\acceso_100_hog.png">
 
 
 El gráfico de barras de ‘Accesos por cada 100 hogares Nacional por año’ muestra un claro crecimiento en el periodo del análisis 2014 - 2022. Cada año presenta un aumento con respecto al año anterior, lo que indica que el crecimiento ha sido constante en el periodo analizado. En total, el número de accesos casi se ha duplicado en 8 años. El aumento constante en el número de accesos indica que cada vez más hogares tienen acceso a internet. En ese sentido, cabe destacar que el crecimiento en el número de accesos se ha producido en todo el país, lo que sugiere que el acceso a internet se ha expandido a todas las provincias del país. Este crecimiento es una buena señal para el desarrollo del país, ya que el acceso a internet es un factor clave para el desarrollo económico y social.
 
 
+<p align='center'>
 <img src ="src\du_baf.png">
 
 
 El gráfico conjunto de uso de ‘Dial up’ y ‘Banda ancha fija’ muestra dos tendencias claras en cuanto a la cantidad de accesos para cada caso. En el caso de ‘Dial up’, se observa una clara tendencia a la disminución a lo largo del periodo analizado. Por otra parte, en el caso de uso de ‘Banda ancha fija’, se evidencia la tendencia clara del aumento en la cantidad en el periodo analizado. ‘Dial up’ y ‘Banda ancha fija’ son dos tecnologías de acceso a internet. ‘Dial up’ es una tecnología de acceso a internet que utiliza la línea telefónica para conectarse a internet. La velocidad de conexión es limitada y depende de la calidad de la línea telefónica. ‘Banda ancha fija’, por otro lado, es una tecnología de acceso a internet que utiliza una conexión de cable o fibra óptica para conectarse a internet. La velocidad de conexión es mucho mayor que la de ‘Dial up’. En ese sentido, podemos concluir que la tendencia a la disminución en el uso de ‘Dial up’ se debe a la obsolescencia de esta tecnología dado que la velocidad de conexión es muy baja en comparación con la de ‘Banda ancha fija’. Además, la calidad de la línea telefónica puede afectar la velocidad de conexión. Por otro lado, la tendencia al aumento en el uso de ‘Banda ancha fija’ se debe a la creciente demanda de acceso a internet de alta velocidad. La tecnología de ‘Banda ancha fija’ ofrece una velocidad de conexión mucho mayor que la de ‘Dial up’. Así mismo, la calidad de la conexión es más estable y no se ve afectada por la calidad de la línea telefónica.  que estas tendencias se han replicado en todo el país, lo que significa que el acceso a internet se ha expandido a todas las provincias.
 
 
+<p align='center'>
 <img src ="src\uso_tecnologia.png">
 
 
 El gráfico de barras ‘Acceso por Tecnología por año’ muestra que todas las tecnologías de acceso a internet presentan un crecimiento constante en su proporción a lo largo del periodo analizado, excepto la tecnología ADSL, que presenta una tendencia a la baja considerable a partir del año 2017 hasta el final del periodo. ADSL es una tecnología de acceso a internet que utiliza la línea telefónica para conectarse a internet. La velocidad de conexión es limitada y depende de la calidad de la línea telefónica. En comparación con otras tecnologías de acceso a internet que usan banda ancha fija como lo son: la fibra óptica y el cable modem, la velocidad de conexión de ADSL es mucho menor. La tendencia a la baja en el uso de ADSL está estrechamente relacionada al bajo uso del ‘Dial Up’.
 Es importante destacar que el crecimiento en el uso de otras tecnologías de acceso a internet se ha producido en todo el país y la tendencia a desaparecer la tecnología de ADSL, lo cual supone oportunidades en cuanto a la sustitución de esa tecnología en zonas donde todavía exista un uso relativamente considerable, por las tecnologías de vanguardia que ofrezcan mejor servicio en cuanto al acceso y a velocidades de navegación.
 
+
+<p align='center'>
+<img src ="src\indicadores.png">
+
+
+En cuanto a indicadores clave de rendimiento Capital Federal y las provincias de Buenos Aires, Tierra del Fuego y San Luis son la vanguardia en cuanto a mayor calidad de servicio puesto que para el último trimestre cumplen con todos los objetivos planteados de crecimiento, por otra parte, en el extremo negativo se encuentra la provincia de San Juan el cual no cumplió los objetivos planteados para el último trimestre, esto puede deberse a la falta de infraestructura y la presencia considerable de tecnologías anticuadas, las cuales no ofrecen velocidades de descarga suficientemente atractivas como para contratar servicios de internet. 
+
+**Casos especiales:**
+
+Las provincias de Formosa, Chubut, Neuquén y San Juan. Formosa se posiciona en primer lugar en crecimiento en cuanto el promedio de velocidad de bajada, sin embargo, para el último trimestre presentó una caída en los accesos a internet, de tal manera que es la provincia con menor cobertura en todo el territorio nacional, en esta provincia permanece el uso considerable de tecnologías anticuadas y aunque se ha ido sustituyendo aún hay una presencia relevante de las mismas, esto implica una disminución en el servicio en cuanto a velocidad de descarga. Por otra parte, estas 4 provincias presentan un factor común que indica un difícil acceso y falta de infraestructura, que es la presencia de tecnología obsoleta de forma relevante y constante a lo largo del periodo analizado, si bien esta muestra una tendencia a ser sustituida por tecnologías más actuales como el ‘Wireless’, aun puede que la presencia de la tecnología este limitando el aumento de accesos a internet, por lo tanto, se hace imperante, la captación de nuevos accesos, ofreciendo alternativas viables que ofrezcan un mejor servicio en las zonas antes mencionadas.
 
 
 ## <h1 align=center> **`Conclusiones y Recomendaciones Generales`**
