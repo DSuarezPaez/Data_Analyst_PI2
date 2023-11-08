@@ -5,7 +5,7 @@
 
 El siguiente proyecto consiste en la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar **acceso a internet**, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
-Enlace de GitHub: 
+Enlace de GitHub: https://github.com/DSuarezPaez/Data_Analyst_PI2.git
 
 Las telecomunicaciones son medios electrónicos que permiten la transmisión de información entre personas, organizaciones y dispositivos a largas distancias. Estos medios incluyen la telefonía, la televisión, la radio y el internet. El internet es una red global de computadoras interconectadas que permite el intercambio de información en tiempo real. Desde su creación, ha tenido un impacto significativo en la vida de las personas, transformando la manera en que nos comunicamos, trabajamos, aprendemos y nos entretenemos.
 
