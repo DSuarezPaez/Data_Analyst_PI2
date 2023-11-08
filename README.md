@@ -152,6 +152,19 @@ El gráfico de barras ‘Acceso por Tecnología por año’ muestra que todas la
 Es importante destacar que el crecimiento en el uso de otras tecnologías de acceso a internet se ha producido en todo el país y la tendencia a desaparecer la tecnología de ADSL, lo cual supone oportunidades en cuanto a la sustitución de esa tecnología en zonas donde todavía exista un uso relativamente considerable, por las tecnologías de vanguardia que ofrezcan mejor servicio en cuanto al acceso y a velocidades de navegación.
 
 
+**Evaluación del Trimestre 4 de 2022**
+
+Para esta evaluación hay que tomar varios aspectos en consideración:
+
+1.- se evalúa el trimestre 4 del año 2022 con respecto al trimestre anterior, es decir, con contra el trimestre 3 del 2022.
+
+2.- los objetivos planteados para los indicadores de rendimiento de Tasa de crecimiento Accesos por cada 100 hogares (KPI_1) y Tasa de crecimiento Mbps (Media de bajada) (KPI_2) serán los promedios de esos indicadores a lo largo del periodo analizado para cada provincia.
+
+3.- los datos obtenidos de población pertenecen al último trimestre del año 2022 y se tomará como objetivo el promedio de % de Cobertura a nivel nacional y este será comparado con el % de Cobertura de cada provincia.
+
+Teniendo en cuenta las consideraciones descritas, se procede a analizar los datos obtenidos.
+
+
 <p align='center'>
 <img src ="src\indicadores.png">
 
