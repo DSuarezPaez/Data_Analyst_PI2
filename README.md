@@ -205,14 +205,17 @@ Las provincias de Formosa, Chubut, Neuquén y San Juan. Formosa se posiciona en 
 1.- Debido a la alta demanda y al constante crecimiento de los accesos a internet a nivel nacional se recomienda invertir en infraestructura y tecnologías actualizadas dado que el crecimiento de ahora en más se hará exponencial, ya que el acceso a internet es un factor clave para el desarrollo económico y social, puesto que permite la comunicación, la información, la educación, el entretenimiento, el comercio, etc. Todo esto con una visión estratégica enfocada en la expansión general tanto como en número de accesos como aumento de velocidad de bajada a nivel nacional.
 
 2.- El uso de tecnologías obsoletas, como el dial up y el ADSL, ha disminuido en el mismo periodo, lo que indica que hay oportunidades de sustituir estas tecnologías por otras más avanzadas en las zonas donde todavía existan.
+
 3.- se recomienda la adquisición de equipos y prestaciones de servicios especializados en la tecnología de fibra óptica, ya que la misma se mantiene en constante crecimiento en la adquisición por parte de potenciales clientes.
 
 4.- se recomienda mantener el mismo impulso con la tecnología de cable modem, ya que la misma representa una opción accesible, económica y con buen servicio, por tales razones se mantiene como la opción preferida en el uso de tecnologías de acceso a internet.
 
 5.- especial atención para áreas rurales, donde a menudo están desatendidas debido a los costos de construir infraestructura de red como cables y torres de transmisión. Esto puede dificultar tu búsqueda de la mejor opción de banda ancha de alta velocidad para áreas rurales. Para casos de zonas desatendidas, se presume es por el difícil acceso y falta de infraestructura, se recomienda crear planes de financiamiento, de sustitución de tecnologías obsoletas y de servicios tipo ‘Wireless’ o internet satelital.
 
+Contacto:
 
-
+linkedin - https://www.linkedin.com/in/daniel-suarez-58a393264/
+email - suarezdanieljo@gmail.com
 
 El estatus correspondiente al proyecto es de: completo/publicado.
 # Data_Analyst_PI2
